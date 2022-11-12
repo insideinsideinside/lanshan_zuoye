@@ -1,6 +1,6 @@
 package main
 
-import "qqf/qff/zuoye5/lv1/api"
+import "qqf/qff/zuoye5/lv0/api"
 
 func main() {
 	api.InitRouter()
